@@ -1,7 +1,7 @@
 # SoftwareDesignChallenge
 
 ## Part 1
-1) `char` is a numeric type, usually representing the character data (value-) type. It holds one byte of data, and the value stored inside can be used to map the number to a character (eg. value 32 is a SPACE, 97 is 'a' etc.)
+1) `char` is an integer type (not the actual 'int' type), usually representing the character data (value-) type. It holds one byte of data, and the value stored inside can be used to map the number to a character (eg. value 32 is a SPACE, 97 is 'a' etc.)
 
 2) The `[]` brackets refer to the fact that it is an array. In this case, `char Address[]` states that the variable `Address` is of the type: character array.
 
